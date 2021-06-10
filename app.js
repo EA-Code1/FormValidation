@@ -5,7 +5,7 @@ let conPwd=document.getElementById("txtConPwd");
 let form=document.querySelector("form");
 
 function validateInput(){
-    //check username is empty 
+    //check username is emptyy 
     if(userName.value.trim()===""){
        onError(userName,"User Name cannot be empty");
     }else{
