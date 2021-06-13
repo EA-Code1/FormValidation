@@ -5,5 +5,7 @@
 
 ![Form Validation js file 1](https://user-images.githubusercontent.com/84244408/121808331-d2707480-cc4f-11eb-80f5-55bfd48bc458.jpg)
 
+![Form Validation js file 2](https://user-images.githubusercontent.com/84244408/121808355-f16f0680-cc4f-11eb-88b9-866295ab8d2b.jpg)
+
 
 
